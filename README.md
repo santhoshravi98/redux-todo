@@ -1,2 +1,1 @@
-# san
-Created with CodeSandbox
+Redux ToDo App alongside react
